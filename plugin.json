@@ -1,0 +1,12 @@
+{
+    "ID":"C483B56402724ABF884E70D42B35C696",
+    "ActionKeyword":"http",
+    "Name":"HTTP Codes",
+    "Description":"Describe HTTP Codes",
+    "Author":"Qutuz",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"http://www.getwox.com",
+    "IcoPath": "http.ico",
+    "ExecuteFileName":"http_codes.py"
+  }
